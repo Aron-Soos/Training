@@ -8,4 +8,6 @@ Staaaaage.
 
 remote pls.
 
-Hello world.
+Hello world
+
+new feature requires this line to be added to the code.
